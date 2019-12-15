@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hello Video</title>
+  <icon>https://hellovideo.github.io/icon.png</icon>
+  <subtitle>Distributed entertainment content ecosystem based on block chain </subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://hellovideo.github.io/"/>
+  <updated>2019-12-15T11:52:15.378Z</updated>
+  <id>https://hellovideo.github.io/</id>
+  
+  <author>
+    <name>Hello Video</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>关于Hello Chain</title>
+    <link href="https://hellovideo.github.io/2019/12/15/about%20hello%20chain/"/>
+    <id>https://hellovideo.github.io/2019/12/15/about%20hello%20chain/</id>
+    <published>2019-12-15T11:34:05.849Z</published>
+    <updated>2019-12-15T11:52:15.378Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Hello Chain（哈啰链）是基于区块链的分布式文娱内容生态系统。 Hello Chain以重塑内容创作者、内容消费商、投资商及品牌广告商，各方健康⽣态关系为愿景；
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Introduce" scheme="https://hellovideo.github.io/categories/Introduce/"/>
+    
+    
+      <category term="Hello Chain" scheme="https://hellovideo.github.io/tags/Hello-Chain/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>区块链为版权保护提供可靠的技术保障</title>
+    <link href="https://hellovideo.github.io/2019/12/15/copyright%20protection/"/>
+    <id>https://hellovideo.github.io/2019/12/15/copyright%20protection/</id>
+    <published>2019-12-15T11:25:42.000Z</published>
+    <updated>2019-12-15T11:32:59.262Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;版权保护&quot;&gt;&lt;a href=&quot;#版权保护&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="News" scheme="https://hellovideo.github.io/categories/News/"/>
+    
+    
+      <category term="版权保护" scheme="https://hellovideo.github.io/tags/%E7%89%88%E6%9D%83%E4%BF%9D%E6%8A%A4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>关于Hello Video</title>
+    <link href="https://hellovideo.github.io/2019/12/13/about%20hello%20video/"/>
+    <id>https://hellovideo.github.io/2019/12/13/about%20hello%20video/</id>
+    <published>2019-12-13T05:41:11.190Z</published>
+    <updated>2019-12-15T10:16:19.885Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;INTIME基金会&quot;&gt;&lt;a href=&quot;#INTIME基金会&quot; class=&quot;headerlink&quot; title=&quot;INTIME基金会&quot;&gt;&lt;/a&gt;INTIME基金会&lt;/h2&gt;&lt;p&gt;HelloChain，由INTIME FOUNDATION PTE. LTD.
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Introduce" scheme="https://hellovideo.github.io/categories/Introduce/"/>
+    
+    
+      <category term="Hello Video" scheme="https://hellovideo.github.io/tags/Hello-Video/"/>
+    
+      <category term="INTIME" scheme="https://hellovideo.github.io/tags/INTIME/"/>
+    
+      <category term="银泰基金会" scheme="https://hellovideo.github.io/tags/%E9%93%B6%E6%B3%B0%E5%9F%BA%E9%87%91%E4%BC%9A/"/>
+    
+      <category term="HelloChain" scheme="https://hellovideo.github.io/tags/HelloChain/"/>
+    
+  </entry>
+  
+</feed>
